@@ -1,6 +1,6 @@
 Prank your Friends using Facebook Messenger
 First run:-
-pip install requirement.txt
+pip install -r requirement.txt
 Steps:-
 1. Edit main.py username="YOUR-USERNAME-HERE" use your username or email
 2. enter facebook password
